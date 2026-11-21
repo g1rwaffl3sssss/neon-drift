@@ -24,3 +24,5 @@ git clone https://github.com/g1rwaffl3sssss/neon-drift.git
 ```
 ## the licensing
 this is under the mit license, basically do whatever tf you want but credit me
+## screenshot
+<img src="screenshot.png">
